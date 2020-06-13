@@ -1,1 +1,4 @@
+premium
 for enterprise : 30$
+for edu : 10$
+
